@@ -3,6 +3,8 @@
 **/.settings/
 **/bin/
 **/.classpath/
+**/.cproject/
+**/.gitignore/
 C++/Retos_de_Programacion/.gitignore
 C++/Retos_de_Programacion/.project
 C++/Retos_de_Programacion/CADENAS_DE_CARACTERES_04/.cproject
@@ -41,3 +43,6 @@ C++/Retos_de_Programacion/PILAS_Y_COLAS_07/.project
 C++/Retos_de_Programacion/CLASES_08/.cproject
 C++/Retos_de_Programacion/CLASES_08/.gitignore
 C++/Retos_de_Programacion/CLASES_08/.project
+C++/Retos_de_Programacion/HERENCIA_09/.cproject
+C++/Retos_de_Programacion/HERENCIA_09/.gitignore
+C++/Retos_de_Programacion/HERENCIA_09/.project
